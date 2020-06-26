@@ -1,0 +1,11 @@
+{
+    "button":
+     {
+       "titleColor": "000000",
+       "backgroundColor": "ffbd69",
+       "titleFontSize": 16,
+       "buttonWidth": 200,
+       "buttonHeight": 100
+       
+     }
+}
